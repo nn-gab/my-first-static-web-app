@@ -18,7 +18,7 @@ namespace Company.Function
             ILogger log)
         {
             return new OkObjectResult(new {
-                Text = "Hello from the API"
+                Text = "I AM ALIVEEE!"
             });
         }
     }
